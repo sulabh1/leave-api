@@ -1,0 +1,2 @@
+# leave-api
+This is the task provided by company. To use this first install all the dependency  run ```npm install```. ```cd server``` run ```sequelize init``` and configure database in config.json file located in config folder.  ``` sequelize db:migrate``` to run all the migrations. And ```npm start``` to start the server. ```npm run start:prod``` to start the server in production mode and ```npm run start:dev``` to start in development mode. Run ```npm run debug``` to debug the code.
