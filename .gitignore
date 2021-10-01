@@ -1,0 +1,4 @@
+node_modules/
+server/.env
+server/config
+server/seeder
